@@ -1,0 +1,26 @@
+{
+	"name": "ejim_charles",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "Parse the local CSV file using pure javascript and convert to HTML table",
+	"main": "NodeServer.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@iamtraction/google-translate": "^2.0.0",
+		"axios": "^1.1.3",
+		"cheerio": "^1.0.0-rc.11",
+		"express": "^4.18.2",
+		"google-translate-api": "^0.1.1",
+		"node-fetch": "^3.2.6",
+		"node-html-parser": "^5.3.3",
+		"puppeteer-core": "^14.4.1",
+		"shopify-api-node": "^3.11.3",
+		"user-agents": "^1.0.1176",
+		"xlsx": "^0.18.5"
+	}
+}

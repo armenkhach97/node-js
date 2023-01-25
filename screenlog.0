@@ -1,0 +1,408 @@
+node:fs:506
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, open './Tomspielzeug.csv'
+[90m    at Object.openSync (node:fs:506:3)[39m
+[90m    at Object.readFileSync (node:fs:402:35)[39m
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:146:18)
+[90m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m {
+  errno: [33m-2[39m,
+  syscall: [32m'open'[39m,
+  code: [32m'ENOENT'[39m,
+  path: [32m'./Tomspielzeug.csv'[39m
+}
+internal/modules/run_main.js:54
+    internalBinding('errors').triggerUncaughtException(
+                              ^
+
+Error [ERR_UNSUPPORTED_ESM_URL_SCHEME]: Only file and data URLs are supported by the default ESM loader
+[90m    at Loader.defaultResolve [as _resolve] (internal/modules/esm/resolve.js:666:11)[39m
+[90m    at Loader.resolve (internal/modules/esm/loader.js:97:40)[39m
+[90m    at Loader.getModuleJob (internal/modules/esm/loader.js:243:28)[39m
+[90m    at ModuleWrap.<anonymous> (internal/modules/esm/module_job.js:42:40)[39m
+[90m    at link (internal/modules/esm/module_job.js:41:36)[39m {
+  code: [32m'ERR_UNSUPPORTED_ESM_URL_SCHEME'[39m
+}
+node:fs:506
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, open './volare.csv'
+[90m    at Object.openSync (node:fs:506:3)[39m
+[90m    at Object.readFileSync (node:fs:402:35)[39m
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:175:20)
+[90m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m {
+  errno: [33m-2[39m,
+  syscall: [32m'open'[39m,
+  code: [32m'ENOENT'[39m,
+  path: [32m'./volare.csv'[39m
+}
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+node:fs:506
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, open './Tomspielzeug.csv'
+[90m    at Object.openSync (node:fs:506:3)[39m
+[90m    at Object.readFileSync (node:fs:402:35)[39m
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:129:18)
+[90m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m {
+  errno: [33m-2[39m,
+  syscall: [32m'open'[39m,
+  code: [32m'ENOENT'[39m,
+  path: [32m'./Tomspielzeug.csv'[39m
+}
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+node:fs:506
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, open './Tomspielzeug.csv'
+[90m    at Object.openSync (node:fs:506:3)[39m
+[90m    at Object.readFileSync (node:fs:402:35)[39m
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:129:18)
+[90m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m {
+  errno: [33m-2[39m,
+  syscall: [32m'open'[39m,
+  code: [32m'ENOENT'[39m,
+  path: [32m'./Tomspielzeug.csv'[39m
+}
+doneee
+node:fs:506
+  handleErrorFromBinding(ctx);
+  ^
+
+Error: ENOENT: no such file or directory, open './pc_notebook_preisliste.xlsx'
+[90m    at Object.openSync (node:fs:506:3)[39m
+[90m    at Object.readFileSync (node:fs:402:35)[39m
+    at read_binary (/home/ejimm/FleetCart/public/24/node_modules/[4mxlsx[24m/xlsx.js:3153:44)
+    at readSync (/home/ejimm/FleetCart/public/24/node_modules/[4mxlsx[24m/xlsx.js:23698:69)
+    at Object.readFileSync (/home/ejimm/FleetCart/public/24/node_modules/[4mxlsx[24m/xlsx.js:23738:9)
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:101:22)
+[90m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m {
+  errno: [33m-2[39m,
+  syscall: [32m'open'[39m,
+  code: [32m'ENOENT'[39m,
+  path: [32m'./pc_notebook_preisliste.xlsx'[39m
+}
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+undefined:8
+        "Number":50163,
+                ^
+
+SyntaxError: Unexpected token : in JSON at position 176
+    at JSON.parse (<anonymous>)
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:24:24)
+    at Timeout._onTimeout (file:///home/ejimm/FleetCart/public/24/index.js:278:2)
+[90m    at listOnTimeout (node:internal/timers:557:17)[39m
+[90m    at processTimers (node:internal/timers:500:7)[39m
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+doneee
+undefined:33
+          "Number":72590 USW-Aggregation,
+                         ^
+
+SyntaxError: Unexpected token U in JSON at position 6079
+    at JSON.parse (<anonymous>)
+    at getData (file:///home/ejimm/FleetCart/public/24/index.js:24:24)
+    at Timeout._onTimeout (file:///home/ejimm/FleetCart/public/24/index.js:278:2)
+[90m    at listOnTimeout (node:internal/timers:557:17)[39m
+[90m    at processTimers (node:internal/timers:500:7)[39m

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Javascript</title>
+		<style>
+			table {
+				overflow: hidden;
+				width: 100%;
+				margin: 0 auto;
+				text-align: center;
+				border-collapse: collapse;
+				border: 1px solid #d4d4d4;
+				height: 500px;
+			}
+
+			tr:nth-child(even) {
+				background: #cdffc7;
+			}
+
+			th,
+			td {
+				padding: 10px 30px;
+			}
+
+			th {
+				border-bottom: 1px solid #d4d4d4;
+			}
+
+			th:nth-child(9),
+			td:nth-child(9),
+			td:nth-child(10),
+			td:nth-child(11),
+			td:nth-child(12),
+			td:nth-child(13),
+			td:nth-child(14),
+			td:nth-child(15) {
+				display: none;
+			}
+		</style>
+	</head>
+	<body>
+		<script src="./CsvToTable.js"></script>
+
+		<script>
+			const table1 = new CsvToTable({
+				csvFile: "table1.csv",
+			});
+			table1.run();
+
+			const table2 = new CsvToTable({
+				csvFile: "table2.csv",
+			});
+			table2.run();
+		</script>
+	</body>
+</html>

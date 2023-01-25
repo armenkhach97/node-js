@@ -1,0 +1,8 @@
+node_modules
+/build
+/package
+.env
+.env.*
+env.ts
+!.env.example
+vite.config.js.timestamp-*
